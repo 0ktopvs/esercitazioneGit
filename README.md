@@ -1,0 +1,2 @@
+# esercitazioneGit
+Prima esercitazione git
